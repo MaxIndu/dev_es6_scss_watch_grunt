@@ -3,3 +3,10 @@
 git rm -r --cached node_modules
 git commit -m 'Remove the now ignored directory node_modules'
 git push origin master
+
+# Git push existing project to github
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <project url> // https://github.com/MaxIndu/dev_es6_scss_watch_grunt.git
+git push -f origin master
