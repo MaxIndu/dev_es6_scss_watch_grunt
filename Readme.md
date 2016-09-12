@@ -5,7 +5,7 @@ Then clone this repository.
 
     git clone "https://github.com/MaxIndu/dev_es6_scss_watch_grunt.git"
 
-Then install dependancies. First, goto the folder "dev_es6_scss_watch_grunt" using terminal(Linux, Mac) or Command prompt(Windows). Then istall dependancies.
+Then install dependancies. First, goto the folder "dev_es6_scss_watch_grunt" using terminal(Linux, Mac) or Command prompt(Windows). Then istall npm dependancies.
 
     npm install
 
