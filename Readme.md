@@ -5,7 +5,7 @@ Then clone this repository.
 
     git clone "https://github.com/MaxIndu/dev_jade_es6_scss_watch_grunt.git"
 
-Then install dependancies. First, goto the folder "dev_es6_scss_watch_grunt" using terminal(Linux, Mac) or Command prompt(Windows). Then istall npm dependancies as follows.
+Then install dependancies. First, goto the folder "dev_jade_es6_scss_watch_grunt" using terminal(Linux, Mac) or Command prompt(Windows). Then istall npm dependancies as follows.
 
     npm install
 
