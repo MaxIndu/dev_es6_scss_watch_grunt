@@ -1,1 +1,1 @@
-console.log('Hi for babel');
+console.log('Hi from main.js...');

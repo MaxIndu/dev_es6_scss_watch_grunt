@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/main.js"],"names":["console","log"],"mappings":";;AAAAA,QAAQC,GAAR,CAAY,oBAAZ","file":"main-compiled.js","sourcesContent":["console.log('Hi from main.js...');\n"]}

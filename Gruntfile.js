@@ -10,7 +10,7 @@ grunt.initConfig({
                 "expand": true,
                 "cwd": "src/js",
                 "src": ["**/*.jsx", "**/*.js"],
-                "dest": "src/js/js-compiled/",
+                "dest": "src/js-compiled/",
                 "ext": "-compiled.js"
             }]
         }
@@ -21,7 +21,7 @@ grunt.initConfig({
               sourceMap : true,
               sourceMapName : 'build/js/sourceMap.map'
             },
-            src : 'src/js/js-compiled/**/*-compiled.js',
+            src : 'src/js-compiled/**/*-compiled.js',
             dest : 'build/js/script.min.js'
         }
     },
